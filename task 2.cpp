@@ -18,10 +18,10 @@ int main()
         sum += input;
         index++;   
       
-        cin >> input; // считываем следующее число
+        cin >> input; 
     }
   
-    cout << sum << endl; // выводим сумму
+    cout << sum << endl;
 
     return 0;
 }
